@@ -1,0 +1,11 @@
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\bin\Release\netcoreapp2.1\Xadrez.deps.json
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\bin\Release\netcoreapp2.1\Xadrez.runtimeconfig.json
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\bin\Release\netcoreapp2.1\Xadrez.runtimeconfig.dev.json
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\bin\Release\netcoreapp2.1\Xadrez.dll
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\bin\Release\netcoreapp2.1\Xadrez.pdb
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.csprojAssemblyReference.cache
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.AssemblyInfoInputs.cache
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.AssemblyInfo.cs
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.dll
+C:\Users\W10\Documents\Estudo C#\Xadrez\Xadrez\obj\Release\netcoreapp2.1\Xadrez.pdb
